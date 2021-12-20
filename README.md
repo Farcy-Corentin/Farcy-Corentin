@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) -  (6 days ago)
-- [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) -  (6 days ago)
-- [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) -  (6 days ago)
-- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 week ago)
-- [Farcy-Corentin/ClockJS](https://github.com/Farcy-Corentin/ClockJS) -  (1 month ago)
+- [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) -  (1 week ago)
+- [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) -  (1 week ago)
+- [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) -  (1 week ago)
+- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (2 weeks ago)
+- [Farcy-Corentin/ClockJS](https://github.com/Farcy-Corentin/ClockJS) -  (2 months ago)
 
 #### 🌱 My latest projects
 
