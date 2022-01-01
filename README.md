@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (today)
+- [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 day ago)
 - [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) -  (2 weeks ago)
 - [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) -  (2 weeks ago)
 - [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) -  (2 weeks ago)
@@ -16,4 +16,4 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Sync](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/13) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (today)
+- [Sync](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/13) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 day ago)
