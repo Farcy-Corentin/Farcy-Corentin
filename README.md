@@ -1,10 +1,10 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) -  (2 days ago)
+- [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (today)
+- [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) -  (today)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (2 weeks ago)
 - [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) -  (1 month ago)
 - [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) -  (1 month ago)
-- [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) -  (1 month ago)
 
 #### 🌱 My latest projects
 
