@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
-- [Farcy-Corentin/react-weather-app](https://github.com/Farcy-Corentin/react-weather-app) - 
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) - 
 - [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) - 
 - [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) - 
 - [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) - 
+- [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) - 
 
 #### 🔨 Latest Pull Requests I published
 
