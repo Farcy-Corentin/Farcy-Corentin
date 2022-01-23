@@ -10,9 +10,9 @@
 
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) - 
 - [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) - 
+- [Farcy-Corentin/Portfolio_v2](https://github.com/Farcy-Corentin/Portfolio_v2) - Portfolio sur Laravel 8
 - [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) - 
 - [Farcy-Corentin/snakeJs](https://github.com/Farcy-Corentin/snakeJs) - 
-- [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) - 
 
 #### 🔨 Latest Pull Requests I published
 
