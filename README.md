@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
-- [Farcy-Corentin/bookstore](https://github.com/Farcy-Corentin/bookstore) - 
+- [Farcy-Corentin/bookstore-front](https://github.com/Farcy-Corentin/bookstore-front) - 
+- [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) - 
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) - 
 - [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) - 
 - [Farcy-Corentin/Portfolio_v2](https://github.com/Farcy-Corentin/Portfolio_v2) - Portfolio sur Laravel 8
-- [Farcy-Corentin/calculator](https://github.com/Farcy-Corentin/calculator) - 
 
 #### 🔨 Latest Pull Requests I published
 
