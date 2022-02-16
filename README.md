@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) -  (4 weeks ago)
+- [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) -  (1 month ago)
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (1 month ago)
 - [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) -  (1 month ago)
 - [Farcy-Corentin/froggerGameJs](https://github.com/Farcy-Corentin/froggerGameJs) -  (2 months ago)
