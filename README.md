@@ -16,5 +16,5 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feature/LCM27: Add booking admin](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/18) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (1 month ago)
+- [feature/LCM27: Add booking admin](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/18) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (2 months ago)
 - [Sync](https://github.com/Farcy-Corentin/leClosMesnilLaravel/pull/13) on [Farcy-Corentin/leClosMesnilLaravel](https://github.com/Farcy-Corentin/leClosMesnilLaravel) (2 months ago)
