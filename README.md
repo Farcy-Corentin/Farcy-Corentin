@@ -4,7 +4,7 @@
 - [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) -  (1 month ago)
 - [Farcy-Corentin/bookstore-front](https://github.com/Farcy-Corentin/bookstore-front) -  (1 month ago)
 - [Farcy-Corentin/todoList](https://github.com/Farcy-Corentin/todoList) -  (2 months ago)
-- [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (2 months ago)
+- [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (3 months ago)
 
 #### 🌱 My latest projects
 
