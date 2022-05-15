@@ -2,7 +2,7 @@
 
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (1 week ago)
 - [Farcy-Corentin/corentinfarcy](https://github.com/Farcy-Corentin/corentinfarcy) -  (3 weeks ago)
-- [Farcy-Corentin/MusicPlayer](https://github.com/Farcy-Corentin/MusicPlayer) -  (1 month ago)
+- [Farcy-Corentin/MusicPlayer](https://github.com/Farcy-Corentin/MusicPlayer) -  (2 months ago)
 - [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) -  (2 months ago)
 - [Farcy-Corentin/bookstore-front](https://github.com/Farcy-Corentin/bookstore-front) -  (2 months ago)
 
