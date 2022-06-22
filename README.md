@@ -8,11 +8,11 @@
 
 #### 🌱 My latest projects
 
+- [Farcy-Corentin/OCR-API-REST](https://github.com/Farcy-Corentin/OCR-API-REST) - 
 - [Farcy-Corentin/ocr-lamaisonjungle](https://github.com/Farcy-Corentin/ocr-lamaisonjungle) - 
 - [Farcy-Corentin/corentinfarcy](https://github.com/Farcy-Corentin/corentinfarcy) - 
 - [Farcy-Corentin/MusicPlayer](https://github.com/Farcy-Corentin/MusicPlayer) - 
 - [Farcy-Corentin/bookstore-front](https://github.com/Farcy-Corentin/bookstore-front) - 
-- [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) - 
 
 #### 🔨 Latest Pull Requests I published
 
