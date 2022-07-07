@@ -1,18 +1,18 @@
 #### 👷 Check out what I'm currently working on
 
+- [Farcy-Corentin/productPreviewCardComponent](https://github.com/Farcy-Corentin/productPreviewCardComponent) -  (today)
 - [Farcy-Corentin/ocr-lamaisonjungle](https://github.com/Farcy-Corentin/ocr-lamaisonjungle) -  (3 weeks ago)
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (2 months ago)
 - [Farcy-Corentin/corentinfarcy](https://github.com/Farcy-Corentin/corentinfarcy) -  (2 months ago)
 - [Farcy-Corentin/MusicPlayer](https://github.com/Farcy-Corentin/MusicPlayer) -  (3 months ago)
-- [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) -  (4 months ago)
 
 #### 🌱 My latest projects
 
+- [Farcy-Corentin/productPreviewCardComponent](https://github.com/Farcy-Corentin/productPreviewCardComponent) - 
 - [Farcy-Corentin/ocr-lamaisonjungle](https://github.com/Farcy-Corentin/ocr-lamaisonjungle) - 
 - [Farcy-Corentin/corentinfarcy](https://github.com/Farcy-Corentin/corentinfarcy) - 
 - [Farcy-Corentin/MusicPlayer](https://github.com/Farcy-Corentin/MusicPlayer) - 
 - [Farcy-Corentin/bookstore-front](https://github.com/Farcy-Corentin/bookstore-front) - 
-- [Farcy-Corentin/bookstore-back](https://github.com/Farcy-Corentin/bookstore-back) - 
 
 #### 🔨 Latest Pull Requests I published
 
