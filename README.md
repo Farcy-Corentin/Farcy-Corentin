@@ -1,6 +1,6 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/productPreviewCardComponent](https://github.com/Farcy-Corentin/productPreviewCardComponent) -  (today)
+- [Farcy-Corentin/productPreviewCardComponent](https://github.com/Farcy-Corentin/productPreviewCardComponent) -  (1 day ago)
 - [Farcy-Corentin/ocr-lamaisonjungle](https://github.com/Farcy-Corentin/ocr-lamaisonjungle) -  (3 weeks ago)
 - [Farcy-Corentin/reactNotesApp](https://github.com/Farcy-Corentin/reactNotesApp) -  (2 months ago)
 - [Farcy-Corentin/corentinfarcy](https://github.com/Farcy-Corentin/corentinfarcy) -  (2 months ago)
