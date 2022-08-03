@@ -1,8 +1,8 @@
 #### 👷 Check out what I'm currently working on
 
-- [Farcy-Corentin/ocr-booki](https://github.com/Farcy-Corentin/ocr-booki) -  (today)
-- [Farcy-Corentin/socialProofSection](https://github.com/Farcy-Corentin/socialProofSection) -  (1 day ago)
-- [Farcy-Corentin/statsPreviewCardComponent](https://github.com/Farcy-Corentin/statsPreviewCardComponent) -  (4 days ago)
+- [Farcy-Corentin/ocr-booki](https://github.com/Farcy-Corentin/ocr-booki) -  (1 day ago)
+- [Farcy-Corentin/socialProofSection](https://github.com/Farcy-Corentin/socialProofSection) -  (2 days ago)
+- [Farcy-Corentin/statsPreviewCardComponent](https://github.com/Farcy-Corentin/statsPreviewCardComponent) -  (5 days ago)
 - [Farcy-Corentin/productPreviewCardComponent](https://github.com/Farcy-Corentin/productPreviewCardComponent) -  (3 weeks ago)
 - [Farcy-Corentin/ocr-lamaisonjungle](https://github.com/Farcy-Corentin/ocr-lamaisonjungle) -  (1 month ago)
 
